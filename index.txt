@@ -1,0 +1,39 @@
+ <html>
+<body bgcolor="#c0c0c0">
+<body link="red">
+<body text="black">
+  <head>
+   <title>hackguia.org</title>
+    </head>
+     <center>
+     <font color="red">
+      <h1>Hola esta es una pagina dedicada al <br>
+       Hacking </h1> </center>
+        </font>
+          <center>
+
+<h1> <A HREF="links.html"> distribuciones </A> &nbsp;&nbsp;&nbsp; <A HREF="comousarkalilinux.html"> como usar kali linux </A> </h1> </center>
+<h3>Tienes dudas investiga aqui</h3>
+<address> www.google.com.ve </address> 
+<a href="https:www.google.com">google</a>
+<img src="portada.jpg">
+<body>
+<center>
+<h1>quienes somos
+</h1>
+<p> nosotros somos un grupo de personas que quieren ayudar a que aprenadan a <br>
+h4ckear traeremos programas y muchos pero muchos cursos tambien eseñaremos a usar diferentes distribuciones <br>
+ejemplo Kali linux,parrot,etc </p>
+<img src="archive.ico">
+</center>
+<center>
+<img src="bactrack.jpg">
+<h1>¿que es bactrack?</h1>
+<p>Bactrack <br>
+bactrack es un sistema linux diseñado para el ambito del hacking </br> 
+</a> </h1>
+</center>
+<left>
+<font color="red">
+</font>
+<a href="comousarkalilinux.html">como usar Kali Linux</a> &nbsp;&nbsp;&nbsp; <a href="links.html"title="las mejores de todas las distribuciones">descargar las mejores distribuciones
